@@ -16,4 +16,6 @@ As computing power has increased, so has the popularity of GANs and its capabili
 
 Content:
 
-1. Building GAN for MNIST (Handwritten digit dataset)
+
+1. Generative vs Discriminative Model
+2. Building GAN for MNIST (Handwritten digit dataset)
